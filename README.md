@@ -29,14 +29,14 @@ You can install the dependencies using pip:
 ### Installation
 
 1. Clone the repository to your local machine:
-
+git clone https://github.com/sohaib1083/Digit-Classifier.git
 
 
 2. Navigate to the project directory:
-
+cd Digit-Classifier
 
 3. Run the program:
-
+python draw.py
 
 ## How to Use
 
